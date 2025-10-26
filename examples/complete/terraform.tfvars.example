@@ -1,0 +1,6 @@
+resource_group_name   = "rg-expressroute-complete-test"
+location             = "westeurope"
+environment          = "test"
+service_provider_name = "Equinix"
+peering_location     = "Amsterdam"
+bandwidth_in_mbps    = 1000
