@@ -271,3 +271,29 @@ Tests cover:
 2. Include comprehensive test coverage for new peering types or features
 3. Update documentation for any new connectivity options
 4. Ensure compliance with enterprise security and networking standards
+## Requirements
+
+No requirements.
+
+## Providers
+
+No providers.
+
+## Modules
+
+No modules.
+
+## Resources
+
+No resources.
+
+## Inputs
+
+No inputs.
+
+## Outputs
+
+No outputs.
+
+<!-- BEGIN_TF_DOCS -->
+<!-- END_TF_DOCS -->
